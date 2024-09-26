@@ -20,7 +20,7 @@ taskkill  /f /im explorer.exe
 
 然後就是痾.... 好吧，應該沒甚麼好說的了，看圖吧。
 
-<img src="C:\Users\Yachi\Desktop\python project\電腦使用防止鎖\doc\img\about.png" alt="about" style="zoom:100%;" />
+<img src="img\about.png" alt="about" style="zoom:100%;" />
 
 ###### 此程式由ABestCookie(~~本大爺~~本人)撰寫，請自由~~使用~~ 吐槽
 
